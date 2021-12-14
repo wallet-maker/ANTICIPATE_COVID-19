@@ -8,4 +8,4 @@ Analysis of clinical and serum cytokine data in COVID-19 vaccinated and unvaccin
 
 2. /data
 
-   Contains all data to reproduce figures and analyses in the manuscript
+   Contains data to reproduce figures and analyses in the manuscript
