@@ -1,6 +1,8 @@
 # ANTICIPATE_Covid-19
 
-Analysis of clinical and serum cytokine data in COVID-19 vaccinated and unvaccinated patients of the ANTICIPATE exploration cohort
+Analysis of clinical and serum cytokine data in COVID-19 vaccinated and unvaccinated patients of the ANTICIPATE exploration cohort.
+
+The study has been published as a preprint on medRxiv https://doi.org/10.1101/2021.12.08.21267430 
 
 1. ANTICIPATE_Covid-19_clinical_cytokines.ipynb
 
