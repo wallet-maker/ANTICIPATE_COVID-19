@@ -1,5 +1,7 @@
 # ANTICIPATE_Covid-19
 
+[![DOI](https://zenodo.org/badge/339390432.svg)](https://zenodo.org/badge/latestdoi/339390432)
+
 Analysis of clinical and serum cytokine data in COVID-19 vaccinated and unvaccinated patients of the ANTICIPATE exploration cohort.
 
 The study has been published as a preprint on medRxiv https://doi.org/10.1101/2021.12.08.21267430 
