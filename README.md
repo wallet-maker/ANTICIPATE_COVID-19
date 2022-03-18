@@ -11,7 +11,12 @@ The study has been published as a preprint on medRxiv https://doi.org/10.1101/20
 1. ANTICIPATE_Covid-19_clinical_cytokines.ipynb
 
    Contains code to reproduce figures and analyses in the manuscript
+   
+2. 2022_ANTICIPATE_COVID-19.yml
 
-2. /data
+   conda environment to run this notebook
+
+3. /data
 
    Contains data to reproduce figures and analyses in the manuscript
+
